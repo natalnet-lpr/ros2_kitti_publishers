@@ -1,0 +1,5 @@
+publisher_node:
+  ros__parameters:
+    kitti_prefix: "/home/bruno/Projects/datasets/kitti"
+    kitti_date: "2011_09_29"
+    kitti_dataset: "2011_09_29_drive_0071_sync"

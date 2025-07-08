@@ -2,10 +2,10 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>ros2_kitti_publishers</name>
-  <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="umtclskn@gmail.com">umut</maintainer>
-  <license>TODO: License declaration</license>
+  <version>1.0.0</version>
+  <description>ROS2 publisher for the KITTI datasets</description>
+  <maintainer email="brunomfs@gmail.com">Bruno Silva</maintainer>
+  <license>Apache 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <buildtool_depend>eigen3_cmake_module</buildtool_depend>
